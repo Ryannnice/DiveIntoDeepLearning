@@ -1,4 +1,0 @@
-$env:ANTHROPIC_BASE_URL="https://api.kimi.com/coding/";
-$env:ANTHROPIC_API_KEY="sk-kimi-2Y7Z5ifDh5ljqPONF5xuIkdVZ6CSXvh0ijkkDBhkVCZVD5GKN8c4icnhAOdUV46B"  # 这里填在会员页面生成的 API Key
-
-claude
